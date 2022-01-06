@@ -1,0 +1,4 @@
+name: LibGUI
+main: ru.arcein.plugins.libgui.LibGUIPlugin
+version: 0.0.1
+depend: []
